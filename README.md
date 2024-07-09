@@ -1,14 +1,8 @@
-# Recipe_App_React
-This is my Assignment project for Bano Qabil website Development Module 2 course.
+# React + Vite
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-![fdsf](https://github.com/SameerAhmedBSCE/Recipe_App_React/assets/136965622/a32e54b5-317d-45eb-a805-2290d19b2bb6)
+Currently, two official plugins are available:
 
-
-![image](https://github.com/SameerAhmedBSCE/Recipe_App_React/assets/136965622/bc9a01e7-a1d7-44e3-8442-399c9fed99e2)
-
-
-![image](https://github.com/SameerAhmedBSCE/Recipe_App_React/assets/136965622/f704f452-3bdf-4275-8b7a-ce5eae1cb2f5)
-
-
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
